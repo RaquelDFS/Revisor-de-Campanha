@@ -1,0 +1,1 @@
+Este programa é para criar um revisor de andamento de campanha e criar um relatório em texto para eu enviar pra minha chefe!
